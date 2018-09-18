@@ -1,0 +1,10 @@
+[{
+  "modid": "antidabmod",
+  "name": "AntiDabMod",
+  "description": "Gets rid of those nasty dabbers from your holy chat.",
+  "version": "1.0.0.0",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/ClubObsidian/AntiDabMod",
+  "authorList": ["VirusTotal"],
+  "credits": "I'd like to thank Rcbert for inspiring me to get rid of those nasty dabbers from my chat so my virgin eyes don't have to see the unholyness that is dabbing."
+}]
